@@ -44,18 +44,3 @@ If you meet any problems, contact 剩女.
 
 1. first, install VScode
 2. `win + r`, input `cmd` into console
-
-![](./src/readme/cmd.png)
-
-3. use `d:` to change disk, and use `cd` command to go to file path
-
-![](./src/readme/cmd2.png)
-
-4. `code --diff file1 file2`
-
-![](./src/readme/cmd3.png)
-
-5. look difference in VScode
-
-![](./src/readme/diff.png)
-
