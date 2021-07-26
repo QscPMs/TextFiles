@@ -68,7 +68,21 @@ Here we introduce the method of using **Github Desktop** and **VScode**
 
 6. Push to origin
 
-Push `Fetch origin`
+![](./src/readme/desktop4.png)
+
+
+
+Here may remind you **you need to fetch first**. That is because someone else modified files and push to origin, you need to `pull` first.
+
+
+
+If you meet conflict which is because your changes are contradict with someone else's. Click view in VScode, and select which changes you want to preserve and then save.
+
+
+
+If you meet any problems, contact 剩女.
+
+
 
 #### How to use `vscode diff`
 
