@@ -1,4 +1,7 @@
 # TextFiles
+
+[TOC]
+
 Text Files Recording
 
 This folder is to store QSC PM's private files.
@@ -39,6 +42,33 @@ If you meet any problems, contact 剩女.
 
 
 ### Appendix
+
+#### How to use `Git`
+
+Here we introduce the method of using **Github Desktop** and **VScode**
+
+1. Install [Github Desktop](https://desktop.github.com/) and [VScode](https://code.visualstudio.com/)
+
+   Github Desktop is a tool help you using git while VScode is a text editor
+
+2. Configure your Github Desktop ( Sign in )
+
+3. Clone Repository from remote
+
+![](./src/readme/desktop1.png)
+
+![](./src/readme/desktop2.png)
+
+4. Update local files
+5. Commit changes and Push to origin so that others can get your changes
+
+![](./src/readme/desktop3.png)
+
+​	BTW, you can view your changes here.
+
+6. Push to origin
+
+Push `Fetch origin`
 
 #### How to use `vscode diff`
 
