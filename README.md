@@ -13,6 +13,7 @@ Now there are several **brochures**:
 + 产品面试手册(The interview manual)
 + 面向管理的产品手册(The management guide)
 + 网节手册(Handbook about Network Festival)
++ 写给求是潮产品的历史书(History book)
 
 Now there are several backup data:
 
