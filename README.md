@@ -2,6 +2,13 @@
 
 [TOC]
 
+[Mark in 2025.03 by 剩女: 无人维护，随便乱丢点东西上去先，欢迎看到的有意愿维护的人联系我，我把repo的权限分发下去。联系方式：(+86)13388605123, 微信同号]
+
+放不下的东西丢网盘了（例如2019秋纳slides）：我用夸克网盘分享了「求是潮」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+链接：https://pan.quark.cn/s/8952dad1037d
+
+
+
 Text Files Recording
 
 This folder is to store QSC PM's private files.

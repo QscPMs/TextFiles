@@ -1,0 +1,86 @@
+/*
+[name]紫[/name]
+[iconbgcolor]#9934B7[/iconbgcolor]
+Powered by Discuz! X
+*/
+
+body { background: #FFF url(bgimg.jpg) no-repeat 50%; background-attachment: fixed; background-size: cover;  }
+#nv { background: none }
+    #nv li { border: 1px solid rgb(161,39,39); margin-right: 20px; height: 25px; }
+    #nv li a { padding: 0 10px; height: 25px; line-height: 25px; }
+    #nv li, #nv li a { background: #fff; color: rgb(161,39,39); }
+    #nv li a:hover, #nv li.hover a, #nv li.hover a:hover { background: #fff; color: rgb(161,39,39); }
+    #nv li.a a, #nv li.a, #nv li.a:hover, #nv li.a.hover a:hover { background: rgba(161,39,39,0.9); color: #fff; }
+
+.wp { width: 980px; }
+#wp { background: #fff; }
+#wp { padding: 0 10px; border-bottom: solid 10px rgba(161,39,39,0.9); border-left: solid 10px rgba(161,39,39,0.9); border-right: solid 10px rgba(161,39,39,0.9); width: 980px; border-radius: 10px; border-top: solid 29px rgba(161,39,39,0.9); }
+    #pt{ background: transparent; margin: -29px -10px; margin-bottom: 10px; }
+        #pt .z { color: #fff; }
+        #pt .z a, #pt .z em { color: #fff; height: 29px }
+        #pt .z em { text-align: center; cursor: default; }
+        #pt .nvhm { background-position: 0 -1px; }
+
+.bm_h, .tl th, .tl td { border-bottom-color: #CDCDCD; }
+.fl .bm_h { background: #ffffff; border: none; }
+.fl.bm { border: none; }
+
+/* 重定义 {SPECIALBG} */
+.bmn, .bm_h, td.pls, .ad td.plc, div.exfm, .tb a, .tb_h, .ttp li.a a, div.uo a, input#addsubmit_btn, #gh .bm .bm_h { background-color: #F8EFF8; }
+
+.ct2_a, .ct3_a { background-image: url(vlineb.png); }
+.tbn li.a { background: #FFF; }
+	#nv_portal.pg_portalcp .ct2_a_r, #nv_forum.pg_post .ct2_a_r, #nv_group.pg_post .ct2_a_r { background-image: none; }
+
+/* 重定义 {SPECIALBORDER} */
+.bmn, .pg a, .pgb a, .pg strong, .card, .card .o, div.exfm  { border-color: #DFCDDE; }
+.pg strong { background-color: #DFCDDE; }
+.pn, .tb .o, .tb .o a { background-image: url(pn.png); }
+	.pnc, a.pnc, .tb .o { border-color: rgb(161, 39, 39); }
+
+.ad td.pls { background-color: #DFCDDE; }
+
+/* 重定义字体 */
+#qmenu, .fl .bm_h h2 a, .xi1, #um .new, .topnav .new, .sch .new, .el .ec .hot em, .pll .s a.joins, #diy_backup_tip .xi2 { color: rgb(161,39,39); }
+.pll .s a.go { color: #FFF; }
+.xi2, .xi2 a { color: #000; }
+
+/* 重定义按钮 */
+.pgs #newspecial, .pgs #newspecialtmp { float: left; background: url(pn_post.png) no-repeat 0 0; }
+#post_reply, #post_replytmp { float: left; background: url(pn_reply.png) no-repeat 0 0; }
+	#newspecial img, #newspecialtmp img, #post_reply img, #post_replytmp img { opacity: 0; filter: alpha(opacity=0); }
+.moodfm_btn { background-image: url(mood_input_btn.png) !important; }
+#create_group_btn { display: block; background: url(create_group.png) no-repeat 0 0; }
+	#create_group_btn img { opacity: 0; filter: alpha(opacity=0); }
+.el .ec .hot, .clct_list .xld .m { background-image: url(hotspot.gif); }
+.pll .s { background-image:url(polljoins.gif); }
+
+/* 重定义广播 */
+#uhd, #flw_header .bar, .flw_replybox { background-color: #FCF9FC; }
+	#uhd .tb a, #flw_header .bar { border-top-color: #F8EFF8; }
+.pg_follow #fastpostsubmit { background-image: url(flw_post.png); }
+.flw_replybox .pnc { background-image: url(pn_reply.png); }
+.flw_replybox td table .pnc { background-image: url(pn_rt.png); }
+#flw_post_extra .sec { border-color: #F8EFF8; background-color: #FCF9FC; }
+
+/* 重定义版块快速跳转和侧边导航 */
+#fjump_menu li.a a { background-color: #FCF8FC; }
+.bdl, .bdl dt, .bdl dd.bdl_a a { border-color: #DFCDDE; background-color: #FCF8FC; }
+	.bdl dt { background-image: url(titlebg_sd.png); }
+.bdl dd.bdl_a a { color: rgb(161,39,39); }
+
+/* 重定义下拉菜单 */
+.p_pop a { border-bottom-color: #F8EFF8; }
+	.p_pop a:hover, .p_pop a.a, #sctype_menu .sca { background-color: #F8EFF8; color: rgb(161,39,39); }
+	.blk a:hover { background-color: transparent; }
+
+/* redefine header */
+.vwmy{ padding-left: 0; background: none; }
+    .vwmy.qq{ padding-left: 0; padding-left: 0; }
+#hd .wp { padding: 0 0 0; width: 1020px; }
+#um{ padding: 0; position: relative; text-align: right; }
+    #head_um{ position: absolute; top: 0; right: 0; border: solid 1px; border-color: rgba(161,39,39,0.9); background: rgba(161,39,39,0.9); border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+    #head_um{ padding-left: 10px; padding-right: 10px; }
+    #um a{ color: #fff; }
+    #um p{ background: rgba(161,39,39,0.9); border-bottom-left-radius: 10px; padding-left: 20px; padding-right: 10px; display: inline-block; }
+#g_upmine{ background: none; padding: 0; margin: 0; }
